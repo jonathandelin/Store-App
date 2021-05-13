@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">CafeApp</string>
+    <string name="order_donuts">Order Donuts!</string>
+    <string name="order_coffee">Order Coffee!</string>
+    <string name="order_details">Order Details</string>
+    <string name="view_all_orders">View All Orders</string>
+    <string name="welcome_to_cafe_app_v1">Welcome to Cafe App v1!</string>
+    <string name="quantity_donut">Quantity</string>
+    <string name="flavor">Flavor</string>
+    <string name="submitdonut">Submit</string>
+    <string name="priceinit">....</string>
+    <string name="milk">milk</string>
+    <string name="cream">cream</string>
+    <string name="syrup">syrup</string>
+    <string name="caramel">caramel</string>
+    <string name="whipped_cream">whipped cream</string>
+    <string name="quantity">Quantity</string>
+    <string name="size">Size</string>
+    <string name="current_cost">Current Cost:</string>
+    <string name="coffeeprice">.....</string>
+    <string name="submitcoffee">Submit</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="totalString">TextView</string>
+    <string name="total_cost">Total Cost:</string>
+    <string name="current_cost2">Current Cost:</string>
+    <string name="taxText">TextView</string>
+    <string name="subTotalText">TextView</string>
+    <string name="finalCostText">TextView</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="taxLabel">TAX:</string>
+    <string name="subtotalLabel">SUBTOTAL:</string>
+    <string name="final_cost_Label">FINAL COST:</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="thank_you_for_ordering_at_rutgers_cafe">Thank You For Ordering at Rutgers Cafe!</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+
+    <string-array name="donut_flavor">
+        <item>Chocolate</item>
+        <item>Vanilla</item>
+        <item>Blueberry</item>
+        <item>Strawberry</item>
+        <item>Glazed</item>
+    </string-array>
+
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="coffee_sizes">
+        <item>short</item>
+        <item>tall</item>
+        <item>grande</item>
+        <item>venti</item>
+    </string-array>
+    
+</resources>
